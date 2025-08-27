@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Malika Dananjana  
 
-<!--
-**malikadananjana/malikadananjana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Undergraduate at **Horizon Campus**  
+💻 Full Stack Web Developer | Next.js | React | MongoDB  
+🎨 Skilled in **Adobe Photoshop & Premiere Pro**  
+📢 Passionate about **Social Media Marketing & Creative Tech**  
+🚀 Always learning, building, and growing in the tech world  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Frontend:** React.js, Next.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Other Tools:** Git, Adobe Photoshop, Premiere Pro  
+
+---
+
+## 📈 GitHub Stats  
+![Malika's GitHub stats](https://github-readme-stats.vercel.app/api?username=malikadananjana&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malikadananjana&layout=compact&theme=radical)  
+
+---
+
+## 🌐 Connect with Me
+- LinkedIn: www.linkedin.com/in/malika-dananjana-096885214  
+- Portfolio: Pending...
+- Email: Sajeerumalika@gmail.com
