@@ -2,7 +2,7 @@
 
 🎓 Undergraduate at **Horizon Campus**  
 💻 Full Stack Web Developer | Next.js | React | MongoDB  
-🎨 Skilled in **Adobe Photoshop & Premiere Pro**  
+🎨 Skilled in **Adobe Photoshop & Premiere Pro & Figma**  
 📢 Passionate about **Social Media Marketing & Creative Tech**  
 🚀 Always learning, building, and growing in the tech world  
 
@@ -24,5 +24,5 @@
 
 ## 🌐 Connect with Me
 - LinkedIn: www.linkedin.com/in/malika-dananjana-096885214  
-- Portfolio: Pending...
+- Portfolio: https://my-portfolio-ten-pink-34.vercel.app/
 - Email: Sajeerumalika@gmail.com
