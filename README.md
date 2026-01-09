@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Malkia D Premathilaka</h1>
+<h1>Hi 👋, I'm Malika D Premathilaka</h1>
 
 🎓 Undergraduate at **Horizon Campus**  
 💻 Full Stack Web Developer | Next.js | React | MongoDB  
