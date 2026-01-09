@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm [Malkia D Premathilaka]</h1>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=[malikadananjana]&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/[malikadananjana]?label=Followers&style=flat&color=0e75b6" alt="Followers" />
-</p>
-
 # 👋 Hi, I'm Malika Dananjana  
 
 🎓 Undergraduate at **Horizon Campus**  
