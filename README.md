@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Malkia D Premathilaka</h1>
+<h1>Hi 👋, I'm Malkia D Premathilaka</h1>
 
 🎓 Undergraduate at **Horizon Campus**  
 💻 Full Stack Web Developer | Next.js | React | MongoDB  
@@ -14,11 +14,6 @@
 - **Database:** MongoDB  
 - **Other Tools:** Git, Adobe Photoshop, Premiere Pro, Figma
 
-<p align="left">
-<a href="https://linkedin.com/in/[YOUR_LINKEDIN]" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:[YOUR_EMAIL]" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
-
 ## 📈 GitHub Stats  
 ![Malika's GitHub stats](https://github-readme-stats.vercel.app/api?username=malikadananjana&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malikadananjana&layout=compact&theme=radical)  
@@ -27,8 +22,12 @@
 
 ## 🌐 Connect with Me
 - LinkedIn: www.linkedin.com/in/malika-dananjana-096885214  
-- Portfolio: https://my-portfolio-ten-pink-34.vercel.app/
+- Portfolio: https://malika-portfolio.vercel.app
 - Email: Sajeerumalika@gmail.com
+<p align="left">
+<a href="https://linkedin.com/in/malika-dananjana-096885214" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:malikadananjana@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
 
 ## Languages & Tools
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
