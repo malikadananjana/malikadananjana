@@ -24,6 +24,7 @@
 - LinkedIn: www.linkedin.com/in/malika-dananjana-096885214  
 - Portfolio: https://malika-portfolio.vercel.app
 - Email: Sajeerumalika@gmail.com
+- Website: Batchsnc.me
 <p align="left">
 <a href="https://linkedin.com/in/malika-dananjana-096885214" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:malikadananjana@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
