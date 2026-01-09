@@ -12,7 +12,7 @@
 - **Frontend:** React.js, Next.js, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
-- **Other Tools:** Git, Adobe Photoshop, Premiere Pro  
+- **Other Tools:** Git, Adobe Photoshop, Premiere Pro, Figma
 
 ---
 
