@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Malkia D Premathilaka]</h1>
-
-# 👋 Hi, I'm Malika Dananjana  
+<h1 align="center">Hi 👋, I'm Malkia D Premathilaka</h1>
 
 🎓 Undergraduate at **Horizon Campus**  
 💻 Full Stack Web Developer | Next.js | React | MongoDB  
